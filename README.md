@@ -3,4 +3,4 @@ Useful bookmarks for Windows. Easy generic import (html) into any major browser.
 
 ## Example
 
-![Example](screenshot.png "Example")
+![Example](https://github.com/hl2guide/Useful-Bookmarks-For-Windows/blob/main/screenshot.PNG?raw=true "Example")
