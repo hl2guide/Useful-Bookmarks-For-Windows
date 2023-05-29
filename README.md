@@ -3,4 +3,4 @@ Useful bookmarks for Windows. Easy generic import (html) into any major browser.
 
 ## Example
 
-[Example](screenshot.png)
+![Example](screenshot.png "Example")
