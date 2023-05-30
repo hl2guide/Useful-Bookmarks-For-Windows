@@ -9,5 +9,5 @@ I've only included official sites with helpful subpages.
 
 ## Usage
 
-1. Download bookmarks.html
+1. Download `bookmarks.html`
 2. Import into your browser
