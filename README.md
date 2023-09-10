@@ -1,7 +1,15 @@
 # Useful-Bookmarks-For-Windows
-Useful bookmarks for Windows. Easy generic import (html) into any major browser.
 
-I've only included official sites with helpful subpages.
+This is a bookmarks file for easy generic import (html) into any major browser.
+
+Features:
+
+* Clean
+* Organized
+* Privacy-minded
+* Consistant titles
+
+Last Update: 2023-09-10 02:09:54PM AEST
 
 ## Example
 
@@ -10,4 +18,4 @@ I've only included official sites with helpful subpages.
 ## Usage
 
 1. Download `bookmarks.html`
-2. Import into your browser
+2. Import into your browser of choice
